@@ -1,0 +1,9 @@
+Package: hymod
+Type: Package
+Title: An R-package for the hydrological model HyMOD
+Version: 0.1
+Date: 2015-03-01
+Author: Emanuele Baratti, Alberto Montanari
+Maintainer: Emanuele Baratti <emanuele.baratti@unibo.it>
+Description: A conceptual lumped rainfall-runoff model
+License: GPL-3
